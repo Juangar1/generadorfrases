@@ -6,7 +6,7 @@
 ***/
 var quotes = [
   
-  
+  {quote:"Muy buenas tardes", source: "Juangar1"}
 ]
 console.log(quotes);
 
