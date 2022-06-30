@@ -108,6 +108,10 @@ var quotes = [
 {quote:"Significas todo para mi", source: "Juangar1"},
 {quote:"Te respeto mucho ;)", source: "Juangar1"},
 {quote:"Tu sonrisa es muy linda", source: "Juangar1"},
+{quote:"Ojalá tenerte para siempre", source: "Juangar1"},
+{quote:"Eres la persona más especial de mi vida", source: "Juangar1"},
+{quote:"Repetiría el haberte conocido una y otra vez", source: "Juangar1"},
+{quote:"Me encanta tocar tu culo", source: "Juangar1"},
 {quote:"Me encanta besarte el cuello", source: "Juangar1"}
 
 ]
